@@ -1,4 +1,4 @@
-# URL_SHOTING_DJANGO_APP
+# URL_SHORTING_DJANGO_APP
 
 # A django app which short the  url length 
 
